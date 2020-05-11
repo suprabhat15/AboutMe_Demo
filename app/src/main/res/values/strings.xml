@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">About Me</string>
+    <string name="done">Done</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
     <string name="suprabhat_kumar"><b>Suprabhat Kumar</b></string>
     <string name="bio">Hi, my name is Suprabhat Kumar.
 \n\nI love fish.
