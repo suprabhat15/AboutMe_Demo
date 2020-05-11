@@ -15,7 +15,7 @@
         android:id="@+id/name_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_margin="10dp"
+        android:layout_marginRight="10dp"
         android:layout_gravity="center_horizontal"
         android:text="@string/suprabhat_kumar"
         />
@@ -37,6 +37,7 @@
             android:id="@+id/bio_text"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:lineSpacingMultiplier="1.2"
             android:text="@string/bio" />
     </ScrollView>
 
